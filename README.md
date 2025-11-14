@@ -1,6 +1,8 @@
 # Movie-Recommendation-System-using-Deep-Learning
 This project builds a hybrid neural recommendation system using TensorFlow Recommenders. It creates a two-tower model that combines collaborative filtering (user/movie IDs) with content-based filtering (movie titles) for personalized movie suggestions.
 
+# MovieLens DataSet
+
 # Key Features
 Hybrid Model Architecture: Leverages both user and movie features (collaborative filtering) alongside contextual information from text features (content-based filtering).
 Deep Learning for Representation: Uses embedding layers to create dense vector representations for user IDs, movie IDs, and other categorical features.
